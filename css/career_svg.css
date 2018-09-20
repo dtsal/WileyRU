@@ -1,0 +1,20 @@
+#career_object {
+    background-color: #fff;
+    width: 970px;
+    height: 500px;
+    margin: auto;
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    animation: fade-in 1s ease-in-out;
+}
+
+
+
+@keyframes fade-in {
+    0% {
+
+        opacity: 0; }
+
+    100% {
+        opacity: 1;}}

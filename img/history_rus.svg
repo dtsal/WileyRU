@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="WileyHistory" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="64 121 740 720" style="enable-background:new 64 121 740 720;" xml:space="preserve">
+<style type="text/css">
+	@font-face {
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans.ttf);
+   }
+
+	@font-face {
+    font-family: 'Verdana-bold';
+    src: url(../fonts/Verdana.ttf);
+   }
+	.st0{opacity:0.35;}
+	.st1{fill:#A2A2A3;}
+	.st2{opacity:0.38;}
+	.st3{opacity:0.51;fill:#4F4F4F;enable-background:new    ;}
+	.st4{opacity:0.53;fill:#4F4F4F;enable-background:new    ;}
+	.st5{opacity:0.66;fill:#4F4F4F;enable-background:new    ;}
+	.st6{opacity:0.52;fill:#4F4F4F;enable-background:new    ;}
+	.st7{opacity:0.46;fill:#4F4F4F;enable-background:new    ;}
+	.st8{opacity:0.55;fill:#4F4F4F;enable-background:new    ;}
+	.st9{opacity:0.49;fill:#4F4F4F;enable-background:new    ;}
+	.st10{fill:#4F4F4F;stroke:#000000;stroke-miterlimit:10;}
+	.st11{opacity:0.63;fill:#4F4F4F;stroke:#6D6C6D;stroke-width:5;stroke-miterlimit:10;enable-background:new    ;}
+	.st12{opacity:0.6;fill:#4F4F4F;stroke:#000000;stroke-miterlimit:10;enable-background:new    ;}
+	.st13{opacity:0.37;fill:#4F4F4F;stroke:#000000;stroke-width:4;stroke-miterlimit:10;enable-background:new    ;}
+	.st14{opacity:0.3;fill:#4F4F4F;stroke:#000000;stroke-width:4;stroke-miterlimit:10;enable-background:new    ;}
+	.st15{opacity:0.54;fill:#4F4F4F;stroke:#515051;stroke-miterlimit:10;enable-background:new    ;}
+	.st16{opacity:0.57;fill:#4F4F4F;enable-background:new    ;}
+	.st17{opacity:0.53;fill:none;stroke:#7C7C7C;stroke-width:2;stroke-miterlimit:10;enable-background:new    ;}
+	.st18{fill:#C8AEB8;}
+	.st19{opacity:0.42;}
+	.st20{fill:#C9C9C9;}
+	.st21{fill:#A4A4A5;}
+	.st22{fill:#BFBFBF;}
+	.st23{fill:#EDEBEC;stroke:#474646;stroke-miterlimit:10;}
+	.st24{fill:#EDEBEC;}
+	.st25{fill:#EDEBEC;stroke:#565656;stroke-miterlimit:10;}
+	.st26{fill:none;}
+	.st27{font-family:'OpenSans';}
+	.st28{font-size:14px;}
+	.st29{letter-spacing:16.7;}
+	.st30{letter-spacing:1.9;}
+	.st31{letter-spacing:2.8;}
+	.st32{fill:none;stroke:#F2F264;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#F2F264;stroke-miterlimit:10;stroke-dasharray:1.9466,1.9466;}
+	.st34{fill:none;stroke:#2132AD;stroke-width:3;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:url(#SVGID_1_);stroke-width:3;stroke-miterlimit:10;}
+	.st36{fill:none;stroke:url(#SVGID_2_);stroke-width:3;stroke-miterlimit:10;}
+	.st37{fill:none;stroke:url(#SVGID_3_);stroke-width:3;stroke-miterlimit:10;}
+	.st38{fill:#FF0000;stroke:#2132AD;stroke-miterlimit:10;}
+	.st39{fill:#E82121;stroke:#2132AD;stroke-miterlimit:10;}
+	.st40{fill:none;stroke:#2132AD;stroke-width:2;stroke-miterlimit:10;}
+	.st41{stroke:#2132AD;stroke-width:2;stroke-miterlimit:10;}
+	.st42{opacity:0.24;fill:none;stroke:#E5E5E5;stroke-miterlimit:10;enable-background:new    ;}
+	.st43{opacity:0.24;fill:none;stroke:#EAEAEA;stroke-miterlimit:10;enable-background:new    ;}
+	.st44{opacity:0.24;fill:none;stroke:#BCBBBB;stroke-miterlimit:10;enable-background:new    ;}
+	.st45{fill:#0C96A8;}
+	.st46{font-family:'Verdana-Bold';}
+	.st47{font-size:24px;}
+	.st48{fill:#12ABB2;}
+	.st49{fill:#F67906;}
+	.st50{fill:url(#SVGID_4_);}
+	.st51{fill:#3796D8;}
+	.st52{fill:#A20041;}
+	.st53{fill:#F25407;}
+	.st54{fill:#A1D8CE;}
+	.st55{fill:#FFFFFF;}
+	.st56{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st57{fill:#8CCA82;}
+	.st58{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st59{fill:none;stroke:#ABABAB;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st60{fill:none;stroke:#1CA4A9;stroke-width:6;stroke-miterlimit:10;}
+	.st61{fill:none;stroke:#F2F264;stroke-miterlimit:10;stroke-dasharray:2;}
+	.st62{opacity:0.42;fill:none;stroke:#F2F264;stroke-miterlimit:10;stroke-dasharray:2;enable-background:new    ;}
+	.st63{opacity:0.44;fill:none;stroke:#F2F264;stroke-miterlimit:10;stroke-dasharray:2;enable-background:new    ;}
+	.st64{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st65{fill:none;stroke:url(#SVGID_5_);stroke-width:3;stroke-miterlimit:10;}
+	.st66{opacity:0.61;fill:none;stroke:#F2F264;stroke-miterlimit:10;stroke-dasharray:2;enable-background:new    ;}
+	.st67{fill:#12ABB2;fill-opacity:0;}
+	.st68{font-size:21px;}
+	.st69{fill:#0000ff;}
+</style>
+<g class="st0">
+	<rect x="100.3" y="398.2" class="st1" width="38.6" height="202"/>
+	<g>
+		<path class="st1" d="M119.5,327.2c8.2,17.1,15,41.6,19.5,70.8"/>
+		<path class="st1" d="M119.8,327.7c-8.2,17.1-15,41.6-19.5,70.8"/>
+		<polyline class="st1" points="119.8,327.2 119.8,398.2 100.3,398.2 		"/>
+		<polyline class="st1" points="119.7,327.2 119.7,398.2 139.2,398.2 		"/>
+	</g>
+	<polyline class="st1" points="158,569.2 138.9,569.2 138.9,542.7 	"/>
+	<polyline class="st1" points="82,569.2 101,569.2 101,542.7 	"/>
+	<polyline class="st1" points="138.9,600.2 138.9,569.2 158,569.2 158,620.7 148.5,620.7 	"/>
+	<polyline class="st1" points="101,600.2 101,569.2 82,569.2 82,620.7 91.5,620.7 	"/>
+</g>
+<g class="st2">
+	<polyline class="st3" points="643,302.8 649,302.8 649,232.7 	"/>
+	<polyline class="st4" points="795.5,302.8 789.9,302.8 789.9,231.6 	"/>
+	<rect x="643" y="302.8" class="st5" width="152.5" height="34.7"/>
+	<polyline class="st5" points="643,302.8 643,337.5 636.5,337.5 	"/>
+	<rect x="649" y="232.7" class="st6" width="140.8" height="70.1"/>
+	<rect x="649" y="174.1" class="st7" width="140.8" height="58.6"/>
+	<polyline class="st8" points="719.4,133 719.4,174.1 682,174.1 	"/>
+	<polyline class="st8" points="756.9,174.1 719.4,174.1 719.4,133 	"/>
+	<polyline class="st9" points="644.4,214.6 649,214.6 649,178.3 647.4,178.3 	"/>
+	<polyline class="st6" points="644.4,214.6 649,214.6 649,232.7 	"/>
+	<polyline class="st9" points="794.5,214.6 789.9,214.6 789.9,178.3 791.5,178.3 	"/>
+	<polyline class="st6" points="794.5,214.6 789.9,214.6 789.9,232.7 	"/>
+	<ellipse class="st10" cx="718.8" cy="277.8" rx="8" ry="8.3"/>
+	<rect x="710.8" y="277.8" class="st10" width="16" height="17.6"/>
+	<path class="st11" d="M698.3,310.5c4.3-7.6,12-12.6,20.8-12.6c8.9,0,16.6,5.2,20.9,12.9"/>
+	<rect x="698.3" y="310.5" class="st12" width="41.7" height="26.9"/>
+	<path class="st10" d="M737.6,329.2c0-9.2-8.2-16.7-18.2-16.7s-18.2,7.5-18.2,16.7"/>
+	<rect x="701.1" y="329.2" class="st10" width="36.5" height="8.3"/>
+	<path class="st13" d="M702.8,277.8c0-9.2,7.3-16.7,16.3-16.7s16.3,7.5,16.3,16.7"/>
+	<g>
+		<path class="st10" d="M679.1,263.1c0.8-1.7,2.3-2.9,4-2.9s3.2,1.2,4,2.9"/>
+		<rect x="679.1" y="263.1" class="st10" width="8" height="14.7"/>
+		<path class="st14" d="M675,266.2c0-5.1,3.6-9.3,8.1-9.3s8.1,4.2,8.1,9.3"/>
+	</g>
+	<g>
+		<path class="st10" d="M751.5,263.5c0.8-1.7,2.3-2.9,4-2.9s3.2,1.2,4,2.9"/>
+		<rect x="751.5" y="263.5" class="st10" width="8" height="14.7"/>
+		<path class="st14" d="M747.4,266.6c0-5.1,3.6-9.3,8.1-9.3s8.1,4.2,8.1,9.3"/>
+	</g>
+	<g>
+		<path class="st10" d="M667,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="667" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M661.8,215.5c0-4.8,3.9-8.6,8.6-8.6s8.6,3.9,8.6,8.6"/>
+	</g>
+	<g>
+		<path class="st10" d="M686.2,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="686.2" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M681,215.5c0-4.8,3.9-8.6,8.6-8.6s8.6,3.9,8.6,8.6"/>
+	</g>
+	<g>
+		<path class="st10" d="M705.7,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="705.7" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M700.5,215.5c0-4.8,3.9-8.6,8.6-8.6c4.8,0,8.6,3.9,8.6,8.6"/>
+	</g>
+	<g>
+		<path class="st10" d="M724.8,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="724.8" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M719.7,215.5c0-4.8,3.9-8.6,8.6-8.6s8.6,3.9,8.6,8.6"/>
+	</g>
+	<g>
+		<path class="st10" d="M744.1,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="744.1" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M738.9,215.5c0-4.8,3.9-8.6,8.6-8.6s8.6,3.9,8.6,8.6"/>
+	</g>
+	<g>
+		<path class="st10" d="M763.5,214.3c0.7-2,2-3.3,3.5-3.3s2.8,1.3,3.5,3.3"/>
+		<rect x="763.5" y="214.3" class="st10" width="6.9" height="16.5"/>
+		<path class="st15" d="M758.3,215.5c0-4.8,3.9-8.6,8.6-8.6s8.6,3.9,8.6,8.6"/>
+	</g>
+	<rect x="671.1" y="174.3" class="st10" width="1.9" height="13.9"/>
+	<rect x="689.6" y="174.1" class="st10" width="1.9" height="13.9"/>
+	<rect x="709.1" y="174.1" class="st10" width="1.9" height="13.9"/>
+	<rect x="727.3" y="174.1" class="st10" width="1.9" height="13.9"/>
+	<rect x="746.6" y="174.1" class="st10" width="1.9" height="13.9"/>
+	<rect x="765" y="174.3" class="st10" width="1.9" height="13.9"/>
+	<g>
+		<rect x="660.5" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="661.6" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="661.8" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="679.4" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="680.5" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="680.8" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="698.7" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="699.8" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="700.1" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="717.4" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="718.5" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="718.8" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="736.4" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="737.5" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="737.8" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="755.4" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="756.4" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="756.7" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<g>
+		<rect x="773.8" y="187.6" class="st10" width="3.6" height="8.4"/>
+		<rect x="774.9" y="184.7" class="st10" width="1.3" height="2.9"/>
+		<rect x="775.2" y="183.5" class="st10" width="0.7" height="1.2"/>
+	</g>
+	<path class="st16" d="M721.4,128.8h-3.6c-1.4,0-2.5-1.1-2.5-2.5v-5.8c0-1.4,1.1-2.5,2.5-2.5h3.6c1.4,0,2.5,1.1,2.5,2.5v5.8
+		C723.9,127.7,722.8,128.8,721.4,128.8z"/>
+	<line class="st17" x1="719.4" y1="133.2" x2="719.4" y2="128.8"/>
+	<polyline class="st3" points="647.4,178.3 649,178.3 649,174.1 646.1,174.1 	"/>
+	<polyline class="st3" points="791.5,178.3 789.9,178.3 789.9,174.1 792.8,174.1 	"/>
+	<polyline class="st5" points="795.5,302.6 795.5,337.5 802,337.5 	"/>
+</g>
+<path class="st18" d="M113.6-188.1"/>
+<script  type="text/ecmascript">
+	<![CDATA[
+
+	function SelectEvent(evt,event) {
+	// Here the Polygon element is taken reverted to text and the "Poly" text is removed from ID name to ge the EventID
+		var HistoryEvtCIRCLE = evt.target.id;
+		var lengthIdCIRCLE = HisroryEvtCIRCLE.length;
+		var lengthIdEvent = lengthIdCIRCLE - 6;
+		var eventId = HistoryEvtCIRCLE.substr (0,lengthIdEvent);
+		var HistoryEvtGROUP = this.document.getElementById(eventId);
+		var ArrayOfEvents = ["1993GROUP", "2000GROUP", "2005GROUP", "2010GROUP", "2017GROUP"];
+		if (event == "mouseover")
+		HistoryEvtGROUP.style.opacity = 1;
+		for (var i = 0; i < ArrayOfEvents.length ; i++)
+    	{
+				  var varWileyEvent = this.document.getElementById(ArrayOfEvents[i]);
+				  if (varWileyEvent !== vastage)
+				  {varWileyEvent.style.opacity = 0.7;}
+
+
+	    }
+	}
+    function EventClick(evt)
+    {
+    	var vastagePoly = evt.target.id;
+		var lengthIdPoly = vastagePoly.length;
+		var lengthIdText = lengthIdPoly - 4;
+		var TextId = vastagePoly.substr (0,lengthIdText);
+//		var vastage = this.document.getElementById(TextId);
+		var ArrayOfTexts = ["Revenue18blnText", "JohnWileyEpoch1826Text", "FirstRecognition1961Text", "GlobalMarket1895Text", "Revenue1mln1929Text", "Revenue6mln1950Text",
+					"OfficeLondon1960Text", "FirstRecognition1961Text", "Revenue100mln1980Text", "JohnWileySons1876Text", "FirstBookShop1814Text", "ScienceFocus1848Text", "Blossom193256Text",
+					"OfficeOAE201012Text", "Foundation1807Text", "OfficesJapan1970Text", "OfficesAustral196070Text", "WileyShares1962Text", "NewBusiness1982Text"];
+		var vastageText = TextId + "Text";
+		var vastage = this.document.getElementById(vastageText);
+        vastage.style.visibility = "visible";
+		vastage.style.opacity = "1";
+		vastage.style.transition = "opacity 1s, visibility 0s";
+
+
+		for (var i = 0; i < ArrayOfTexts.length ; i++)
+    	{
+				  var varWileyText = this.document.getElementById(ArrayOfTexts[i]);
+				  if (varWileyText !== vastage)
+				  {varWileyText.style.visibility = "hidden";
+				   varWileyText.style.opacity = 0;
+				   vastage.style.transition = "opacity 0.25s visibility 0s 0.25s";
+				  }
+        }
+   }
+		
+		
+		]]>
+</script>
+<g class="st19">
+	<rect x="577.6" y="471.7" class="st20" width="226.4" height="149"/>
+	<rect x="518.5" y="435.5" class="st21" width="59" height="185.3"/>
+	<rect x="271.9" y="471.7" class="st22" width="246.6" height="149"/>
+	<g>
+		<g>
+			<rect x="703.8" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="727.8" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="703.8" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="719.8" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="735.8" y="573.5" class="st23" width="16" height="25.5"/>
+		</g>
+		<g>
+			<rect x="641.4" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="665.3" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="641.4" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="657.3" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="673.3" y="573.5" class="st23" width="16" height="25.5"/>
+		</g>
+		<g>
+			<rect x="579" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="602.9" y="564.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="579" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="594.9" y="573.5" class="st23" width="16" height="25.5"/>
+			<rect x="610.9" y="573.5" class="st23" width="16" height="25.5"/>
+		</g>
+		<g>
+			<rect x="703.8" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="727.8" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="703.8" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="719.8" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="735.8" y="517.6" class="st23" width="16" height="25.5"/>
+		</g>
+		<g>
+			<rect x="641.4" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="665.3" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="641.4" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="657.3" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="673.3" y="517.6" class="st23" width="16" height="25.5"/>
+		</g>
+		<g>
+			<rect x="579" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="602.9" y="508.9" class="st23" width="23.9" height="8.6"/>
+			<rect x="579" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="594.9" y="517.6" class="st23" width="16" height="25.5"/>
+			<rect x="610.9" y="517.6" class="st23" width="16" height="25.5"/>
+		</g>
+	</g>
+	<g>
+		<rect x="462.9" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="486.8" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="462.9" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="478.8" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="494.8" y="571.5" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="400.5" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="424.4" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="400.5" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="416.4" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="432.4" y="571.5" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="338" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="361.9" y="563" class="st23" width="23.9" height="8.6"/>
+		<rect x="338" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="354" y="571.5" class="st23" width="16" height="25.5"/>
+		<rect x="369.9" y="571.5" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="462.9" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="486.8" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="462.9" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="478.8" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="494.8" y="515.7" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="400.5" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="424.4" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="400.5" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="416.4" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="432.4" y="515.7" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="338" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="361.9" y="507" class="st23" width="23.9" height="8.6"/>
+		<rect x="338" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="354" y="515.7" class="st23" width="16" height="25.5"/>
+		<rect x="369.9" y="515.7" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="275.9" y="563.1" class="st23" width="23.9" height="8.6"/>
+		<rect x="299.9" y="563.1" class="st23" width="23.9" height="8.6"/>
+		<rect x="275.9" y="571.7" class="st23" width="16" height="25.5"/>
+		<rect x="291.9" y="571.7" class="st23" width="16" height="25.5"/>
+		<rect x="307.9" y="571.7" class="st23" width="16" height="25.5"/>
+	</g>
+	<g>
+		<rect x="275.9" y="507.2" class="st23" width="23.9" height="8.6"/>
+		<rect x="299.9" y="507.2" class="st23" width="23.9" height="8.6"/>
+		<rect x="275.9" y="515.9" class="st23" width="16" height="25.5"/>
+		<rect x="291.9" y="515.9" class="st23" width="16" height="25.5"/>
+		<rect x="307.9" y="515.9" class="st23" width="16" height="25.5"/>
+	</g>
+	<rect x="524.4" y="451" class="st24" width="20.8" height="54"/>
+	<g>
+		<rect x="524.6" y="451" class="st25" width="10.4" height="18.7"/>
+		<rect x="535" y="451" class="st25" width="10.4" height="18.7"/>
+		<rect x="524.5" y="469.9" class="st25" width="10.4" height="16.4"/>
+		<rect x="534.9" y="469.9" class="st25" width="10.4" height="16.4"/>
+		<rect x="524.5" y="486.3" class="st25" width="10.4" height="18.7"/>
+		<rect x="534.9" y="486.3" class="st25" width="10.4" height="18.7"/>
+	</g>
+	<g>
+		<rect x="550.4" y="451.1" class="st25" width="10.4" height="18.7"/>
+		<rect x="560.8" y="451.1" class="st25" width="10.4" height="18.7"/>
+		<rect x="550.2" y="470" class="st25" width="10.4" height="16.4"/>
+		<rect x="560.8" y="470" class="st25" width="10.4" height="16.4"/>
+		<rect x="550.2" y="486.5" class="st25" width="10.4" height="18.7"/>
+		<rect x="560.8" y="486.5" class="st25" width="10.4" height="18.7"/>
+	</g>
+	<g>
+		<rect x="524.4" y="517.6" class="st25" width="10.4" height="19"/>
+		<rect x="534.8" y="517.6" class="st25" width="10.4" height="19"/>
+		<rect x="524.3" y="536.7" class="st25" width="10.4" height="16.7"/>
+		<rect x="534.7" y="536.7" class="st25" width="10.4" height="16.7"/>
+		<rect x="524.3" y="553.4" class="st25" width="10.4" height="19"/>
+		<rect x="534.7" y="553.4" class="st25" width="10.4" height="19"/>
+	</g>
+	<g>
+		<rect x="550.4" y="517.7" class="st25" width="10.4" height="19"/>
+		<rect x="560.8" y="517.7" class="st25" width="10.4" height="19"/>
+		<rect x="550.2" y="536.8" class="st25" width="10.4" height="16.7"/>
+		<rect x="560.8" y="536.8" class="st25" width="10.4" height="16.7"/>
+		<rect x="550.2" y="553.5" class="st25" width="10.4" height="19"/>
+		<rect x="560.8" y="553.5" class="st25" width="10.4" height="19"/>
+	</g>
+	<rect x="550.2" y="589" class="st25" width="21" height="27.6"/>
+	<rect x="560.8" y="589" class="st25" width="10.4" height="27.6"/>
+</g>
+<rect x="64" y="132.4" class="st26" width="454.8" height="119.1"/>
+<text transform="matrix(1.08 0 0 1 91 143.04)"><tspan x="0" y="0" class="st27 st28">Дочерняя</tspan><tspan x="67.4" y="0" class="st27 st28"> </tspan><tspan x="70.6" y="0" class="st27 st28">компания</tspan><tspan x="138.6" y="0" class="st27 st28"> </tspan><tspan x="141.8" y="0" class="st27 st28">Wiley</tspan><tspan x="176.8" y="0" class="st27 st28"> </tspan><tspan x="180" y="0" class="st27 st28">в</tspan><tspan x="188" y="0" class="st27 st28"> </tspan><tspan x="191.2" y="0" class="st27 st28">России</tspan><tspan x="239.1" y="0" class="st27 st28"> </tspan><tspan x="242.4" y="0" class="st27 st28">(ООО</tspan><tspan x="279.2" y="0" class="st27 st28"> </tspan><tspan x="282.4" y="0" class="st27 st28">&quot;Джон</tspan><tspan x="325.2" y="0" class="st27 st28"> </tspan><tspan x="328.5" y="0" class="st27 st28">Вайли</tspan><tspan x="371.1" y="0" class="st27 st28"> </tspan><tspan x="374.3" y="0" class="st27 st28">и </tspan><tspan x="0" y="16.8" class="st27 st28">Сыновья</tspan><tspan x="61" y="16.8" class="st27 st28 st29"> </tspan><tspan x="81.8" y="16.8" class="st27 st28">Рус»)</tspan><tspan x="115.1" y="16.8" class="st27 st28 st29"> </tspan><tspan x="135.9" y="16.8" class="st27 st28">была</tspan><tspan x="170.8" y="16.8" class="st27 st28 st29"> </tspan><tspan x="191.7" y="16.8" class="st27 st28">сформирована</tspan><tspan x="294" y="16.8" class="st27 st28 st29"> </tspan><tspan x="314.9" y="16.8" class="st27 st28">на</tspan><tspan x="331.5" y="16.8" class="st27 st28 st29"> </tspan><tspan x="352.4" y="16.8" class="st27 st28">базе </tspan><tspan x="0" y="33.6" class="st27 st28">Представительства</tspan><tspan x="132.1" y="33.6" class="st27 st28 st30"> </tspan><tspan x="137.7" y="33.6" class="st27 st28">Wiley</tspan><tspan x="172.6" y="33.6" class="st27 st28 st30"> </tspan><tspan x="178.2" y="33.6" class="st27 st28">в</tspan><tspan x="186.1" y="33.6" class="st27 st28 st30"> </tspan><tspan x="191.7" y="33.6" class="st27 st28">России,</tspan><tspan x="243.1" y="33.6" class="st27 st28 st30"> </tspan><tspan x="248.7" y="33.6" class="st27 st28">существовавшего</tspan><tspan x="370.9" y="33.6" class="st27 st28 st30"> </tspan><tspan x="376.5" y="33.6" class="st27 st28">с </tspan><tspan x="0" y="50.4" class="st27 st28">2002</tspan><tspan x="32" y="50.4" class="st27 st28 st31"> </tspan><tspan x="39.1" y="50.4" class="st27 st28">года.</tspan><tspan x="73" y="50.4" class="st27 st28 st31"> </tspan><tspan x="80.1" y="50.4" class="st27 st28">Представительство</tspan><tspan x="212.9" y="50.4" class="st27 st28 st31"> </tspan><tspan x="219.9" y="50.4" class="st27 st28">Wiley,</tspan><tspan x="258.3" y="50.4" class="st27 st28 st31"> </tspan><tspan x="265.4" y="50.4" class="st27 st28">в</tspan><tspan x="273.3" y="50.4" class="st27 st28 st31"> </tspan><tspan x="280.4" y="50.4" class="st27 st28">свою</tspan><tspan x="315.1" y="50.4" class="st27 st28 st31"> </tspan><tspan x="322.2" y="50.4" class="st27 st28">очередь, </tspan><tspan x="0" y="67.2" class="st27 st28">было</tspan><tspan x="35.6" y="67.2" class="st27 st28 st30"> </tspan><tspan x="41.8" y="67.2" class="st27 st28">сформировано</tspan><tspan x="144.7" y="67.2" class="st27 st28 st30"> </tspan><tspan x="150.9" y="67.2" class="st27 st28">на</tspan><tspan x="167.6" y="67.2" class="st27 st28 st30"> </tspan><tspan x="173.8" y="67.2" class="st27 st28">основе</tspan><tspan x="222" y="67.2" class="st27 st28 st30"> </tspan><tspan x="228.2" y="67.2" class="st27 st28">английской</tspan><tspan x="307.9" y="67.2" class="st27 st28 st30"> </tspan><tspan x="314" y="67.2" class="st27 st28">компании </tspan><tspan x="0" y="84" class="st27 st28">«Марис Технолоджис», работавшей в России с 1992 года</tspan></text>
+<g>
+	<g id="EVENTGROUP">
+		<g>
+			<path class="st26" d="M356,569"/>
+		</g>
+		<g>
+			<g>
+				<path class="st32" d="M272.3,516.6c0.3-0.1,0.7-0.1,1-0.2"/>
+				<path class="st33" d="M275.2,516c3.5-0.6,7-1,10.6-1.1"/>
+				<path class="st32" d="M286.8,514.9c0.3,0,0.7,0,1,0"/>
+			</g>
+		</g>
+		<g>
+			<line class="st34" x1="260" y1="458.1" x2="220.3" y2="534.9"/>
+			<path class="st34" d="M221.1,532.8c-9.1,19.5-29.1,33.1-52.3,33.1"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="82" y1="230.1" x2="82" y2="230.1" gradientTransform="matrix(1 0 0 -1 0 796)">
+				<stop  offset="0" style="stop-color:#A2A2A3;stop-opacity:0.4"/>
+				<stop  offset="0.8768" style="stop-color:#2132AD"/>
+			</linearGradient>
+			<path class="st35" d="M82,565.9"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="166.8" y1="230.1" x2="166.8" y2="230.1" gradientTransform="matrix(1 0 0 -1 0 796)">
+				<stop  offset="0" style="stop-color:#A2A2A3;stop-opacity:0.4"/>
+				<stop  offset="0.8768" style="stop-color:#2132AD"/>
+			</linearGradient>
+			<path class="st36" d="M166.8,565.9"/>
+			<line class="st34" x1="309.8" y1="426.2" x2="444.3" y2="422.6"/>
+			<path class="st34" d="M259,459.6c9.1-19.5,29.1-33.1,52.3-33.1"/>
+			<path class="st34" d="M503,378.9c-11.1,25.9-35.8,43.8-64.3,43.8"/>
+			<path class="st34" d="M509.1,366.9c10-19.5,32.1-33.1,57.8-33.1"/>
+			<line class="st34" x1="498.6" y1="387.4" x2="509.1" y2="366.9"/>
+			<line class="st34" x1="562.5" y1="333.6" x2="674" y2="329.4"/>
+			<path class="st34" d="M730,286.6c-9.7,25-31.1,42.4-56,42.4"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="726.9011" y1="551.95" x2="766.4989" y2="551.95" gradientTransform="matrix(1 0 0 -1 0 796)">
+				<stop  offset="0" style="stop-color:#2132AD"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<line class="st37" x1="728.3" y1="291.6" x2="765.1" y2="196.5"/>
+		</g>
+		<ellipse class="st38" cx="180.9" cy="563.6" rx="14.1" ry="14.3"/>
+		<ellipse class="st38" cx="285.2" cy="433.9" rx="14.1" ry="14.3"/>
+		<ellipse class="st39" cx="476.4" cy="413.2" rx="14.1" ry="14.3"/>
+		<ellipse class="st39" cx="714.2" cy="313.2" rx="14.1" ry="14.3"/>
+		<line class="st40" x1="175.9" y1="549.4" x2="168.8" y2="511.8"/>
+		<line class="st40" x1="300.7" y1="463.2" x2="292" y2="446.2"/>
+		<ellipse class="st39" cx="573.3" cy="333.9" rx="14.1" ry="14.3"/>
+		<line class="st40" x1="467.3" y1="402.8" x2="448.1" y2="382"/>
+		<line class="st40" x1="573.3" y1="348.1" x2="573.3" y2="378.9"/>
+		<line class="st40" x1="704.4" y1="303" x2="682.8" y2="280.3"/>
+		<circle class="st41" cx="180.9" cy="563.9" r="7"/>
+		<circle class="st41" cx="285.2" cy="433.9" r="7"/>
+		<circle class="st41" cx="476.4" cy="413.2" r="7"/>
+		<circle class="st41" cx="573.3" cy="333.5" r="7"/>
+		<circle class="st41" cx="714.2" cy="313.2" r="7"/>
+		<line class="st42" x1="332.3" y1="453.9" x2="389.7" y2="531.5"/>
+		<line class="st43" x1="348.8" y1="488.1" x2="293.3" y2="560"/>
+		<line class="st44" x1="397.3" y1="276.4" x2="335.4" y2="358.6"/>
+		<g id="1993GROUP">
+			<text transform="matrix(1 0 0 1 126.3774 473.2859)" class="st45 st46 st47">1993</text>
+			<g>
+				<path class="st48" d="M158.3,400.6c-31.8,0-57.5,25.7-57.5,57.5s25.7,57.5,57.5,57.5s57.5-25.7,57.5-57.5
+					S190.1,400.6,158.3,400.6z M157.8,505.9c-22.1,0-40-17.9-40-40s17.9-40,40-40s40,17.9,40,40S179.9,505.9,157.8,505.9z"/>
+			</g>
+		</g>
+		<g id="2000GROUP">
+			<text transform="matrix(1 0 0 1 296.69 513.9567)" class="st49 st46 st47">2000</text>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="280.343" y1="252.1026" x2="384.257" y2="312.0974" gradientTransform="matrix(1 0 0 -1 0 796)">
+				<stop  offset="0" style="stop-color:#F67400"/>
+				<stop  offset="0.234" style="stop-color:#F67603"/>
+				<stop  offset="0.4114" style="stop-color:#F67E0D"/>
+				<stop  offset="0.5702" style="stop-color:#F68B1D"/>
+				<stop  offset="0.7181" style="stop-color:#F69D34"/>
+				<stop  offset="0.8584" style="stop-color:#F6B552"/>
+				<stop  offset="0.9914" style="stop-color:#F6D275"/>
+				<stop  offset="1" style="stop-color:#F6D478"/>
+			</linearGradient>
+			<path class="st50" d="M332.3,453.9c-33.1,0-60,26.9-60,60c0,33.1,26.9,60,60,60c33.1,0,60-26.9,60-60
+				C392.3,480.8,365.4,453.9,332.3,453.9z M325.2,543.2c-22.1,0-40-17.9-40-40s17.9-40,40-40c22.1,0,40,17.9,40,40
+				S347.3,543.2,325.2,543.2z"/>
+		</g>
+		<g id="2005GROUP">
+			<text transform="matrix(1 0 0 1 373.7838 353.3349)" class="st51 st46 st47">2005</text>
+			<path class="st51" d="M397.3,276.4c-35.9,0-65,29.1-65,65s29.1,65,65,65c35.9,0,65-29.1,65-65S433.2,276.4,397.3,276.4z
+				 M406.1,391.1c-24.9,0-45-20.1-45-45s20.1-45,45-45c24.9,0,45,20.1,45,45S430.9,391.1,406.1,391.1z"/>
+		</g>
+		<g id="2010GROUP">
+			<text transform="matrix(1 0 0 1 543.8775 437.303)" class="st52 st46 st47">2010</text>
+			<path class="st52" d="M573.3,378.9c-33.1,0-60,26.9-60,60s26.9,60,60,60s60-26.9,60-60S606.4,378.9,573.3,378.9z M572.3,476.9
+				c-24.9,0-45-20.1-45-45s20.1-45,45-45s45,20.1,45,45S597.2,476.9,572.3,476.9z"/>
+		</g>
+		<g id="2017GROUP">
+			<text transform="matrix(1 0 0 1 607.4774 231.9668)" class="st53 st46 st47">2017</text>
+			<path class="st53" d="M633.3,148.9c-41.4,0-75,33.6-75,75s33.6,75,75,75s75-33.6,75-75S674.7,148.9,633.3,148.9z M638.6,289.3
+				c-33.1,0-60-26.9-60-60s26.9-60,60-60s60,26.9,60,60S671.7,289.3,638.6,289.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<circle id="XMLID_452_" class="st54" cx="704.4" cy="406.2" r="34.9"/>
+	<g id="Layer_2_1_">
+		<g>
+			<g>
+				<path class="st55" d="M693.2,407.8c0,4.2,2.6,7.7,6.2,9.1v-2.4c-2.4-1.3-4.1-3.8-4.1-6.7c0-4,3-7.1,6.7-7.6v-2.3
+					C697.2,398.6,693.2,402.8,693.2,407.8z"/>
+				<path class="st55" d="M698.7,419.4c-4.8-1.8-8.3-6.2-8.3-11.5c0-6.5,5.2-11.8,11.8-12.2v-2.2c-7.8,0.5-13.9,6.7-13.9,14.4
+					c0,6.4,4.3,11.8,10.2,13.7"/>
+			</g>
+			<path class="st56" d="M714.8,420.6h-17.5c-3.2,0-5.9,2.8-5.9,6.1v0.4c0,0.4,0,0.8,0.1,1.2h28.9c0.1-0.4,0.1-0.7,0.1-1.2v-0.4
+				C720.6,423.2,717.9,420.6,714.8,420.6z"/>
+			<line class="st56" x1="706.5" y1="380.7" x2="706.5" y2="386.8"/>
+			<path class="st56" d="M710.4,388.2v13.6c0,1.1-0.8,1.9-1.9,1.9h-4c-1.1,0-1.9-0.8-1.9-1.9v-13.6c0-1.1,0.8-1.9,1.9-1.9h4
+				C709.5,386.2,710.4,387.1,710.4,388.2z"/>
+			<line class="st56" x1="706.2" y1="403.2" x2="706.2" y2="407.7"/>
+			<path class="st55" d="M711.7,415.4h-9.5l0,0c-1-0.1-1.8-0.4-2.6-0.8v2.4c0.8,0.4,1.8,0.5,2.6,0.6l0,0h9.5c1.3,0,2.4,1.3,2.4,3
+				h1.8C715.9,417.8,714,415.4,711.7,415.4z"/>
+		</g>
+	</g>
+</g>
+<circle id="XMLID_514_" class="st57" cx="485.6" cy="272.6" r="10.5"/>
+<g>
+	<path class="st58" d="M348.6,278.2L348.6,278.2c-1.3,0-2.4-1.1-2.4-2.4V267c0-1.3,1.1-2.4,2.4-2.4l0,0c1.3,0,2.4,1.1,2.4,2.4v8.8
+		C351,277.2,349.9,278.2,348.6,278.2z"/>
+	<path class="st58" d="M361.8,278L361.8,278c-1.2,0.4-2.6-0.3-3-1.5l-2.7-8.4c-0.4-1.2,0.3-2.6,1.5-3l0,0c1.2-0.4,2.6,0.3,3,1.5
+		l2.7,8.4C363.8,276.3,363.1,277.6,361.8,278z"/>
+	<path class="st58" d="M353.4,278.2L353.4,278.2c-1.3,0-2.4-1.1-2.4-2.4V265c0-1.3,1.1-2.4,2.4-2.4l0,0c1.3,0,2.4,1.1,2.4,2.4v10.8
+		C355.7,277.2,354.7,278.2,353.4,278.2z"/>
+	<path class="st58" d="M364.9,278.5h-21.2c-0.1,0-0.2-0.1-0.2-0.2l0,0c0-0.1,0.1-0.2,0.2-0.2h21.2c0.1,0,0.2,0.1,0.2,0.2l0,0
+		C365.1,278.4,365,278.5,364.9,278.5z"/>
+	<line class="st58" x1="346.3" y1="267.6" x2="350.8" y2="267.6"/>
+	<line class="st58" x1="346.5" y1="276.1" x2="351" y2="276.1"/>
+	<line class="st58" x1="356.8" y1="269.5" x2="361" y2="268.1"/>
+	<line class="st58" x1="357.2" y1="271.2" x2="361.5" y2="269.7"/>
+</g>
+<path id="XMLID_6_" class="st59" d="M190.9,381.6"/>
+<path id="XMLID_5_" class="st59" d="M214.4,351.1"/>
+<path id="XMLID_4_" class="st60" d="M161.4,350.9"/>
+<path id="XMLID_3_" class="st60" d="M183.1,372.6"/>
+<path id="XMLID_2_" class="st60" d="M183.1,372.6"/>
+<path id="XMLID_1_" class="st60" d="M204.8,350.9"/>
+<path class="st61" d="M329.4,573.9c-7.8-7.1-12.8-17.4-12.8-28.9c0-1.1,0-2.1,0.1-3.1"/>
+<path class="st61" d="M365,507.2c11.2,2.8,20.5,10.4,25.6,20.6"/>
+<line class="st62" x1="371.5" y1="375" x2="371.5" y2="400.8"/>
+<line class="st62" x1="371.5" y1="283.1" x2="371.5" y2="317.3"/>
+<line class="st63" x1="361.5" y1="351.6" x2="341.5" y2="372.6"/>
+<line class="st63" x1="426.4" y1="283.3" x2="409.4" y2="301.1"/>
+<path class="st61" d="M654.9,172c-2.1-8.4-5.8-16-10.9-22.7"/>
+<path class="st61" d="M581.1,246.6c4.4,1,9,1.5,13.6,1.5c34.2,0,61.9-27.5,61.9-61.5c0-5-0.6-9.9-1.8-14.6"/>
+<path class="st61" d="M559.2,237c6.5,4.5,13.9,7.9,21.9,9.7"/>
+<ellipse id="XMLID_512_" class="st57" cx="204.8" cy="304.4" rx="35" ry="35"/>
+<g>
+	<path class="st64" d="M193.2,315.6L193.2,315.6c-2.6,0-4.8-2.2-4.8-4.8v-17.6c0-2.6,2.2-4.8,4.8-4.8l0,0c2.6,0,4.8,2.2,4.8,4.8
+		v17.6C198,313.6,195.8,315.6,193.2,315.6z"/>
+	<path class="st64" d="M219.6,315.2L219.6,315.2c-2.4,0.8-5.2-0.6-6-3l-5.4-16.8c-0.8-2.4,0.6-5.2,3-6l0,0c2.4-0.8,5.2,0.6,6,3
+		l5.4,16.8C223.6,311.8,222.2,314.4,219.6,315.2z"/>
+	<path class="st64" d="M202.8,315.6L202.8,315.6c-2.6,0-4.8-2.2-4.8-4.8v-21.6c0-2.6,2.2-4.8,4.8-4.8l0,0c2.6,0,4.8,2.2,4.8,4.8
+		v21.6C207.4,313.6,205.4,315.6,202.8,315.6z"/>
+	<path class="st64" d="M225.8,316.2h-42.4c-0.2,0-0.4-0.2-0.4-0.4l0,0c0-0.2,0.2-0.4,0.4-0.4h42.4c0.2,0,0.4,0.2,0.4,0.4l0,0
+		C226.2,316,226,316.2,225.8,316.2z"/>
+	<line class="st64" x1="188.6" y1="294.4" x2="197.6" y2="294.4"/>
+	<line class="st64" x1="189" y1="311.4" x2="198" y2="311.4"/>
+	<line class="st64" x1="209.6" y1="298.2" x2="218" y2="295.4"/>
+	<line class="st64" x1="210.4" y1="301.6" x2="219" y2="298.6"/>
+</g>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="91.4542" y1="231.25" x2="166.8458" y2="231.25" gradientTransform="matrix(1 0 0 -1 0 796)">
+	<stop  offset="0" style="stop-color:#DFDFDF"/>
+	<stop  offset="0.9901" style="stop-color:#2132AD"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<line class="st65" x1="166.8" y1="563.6" x2="91.5" y2="565.9"/>color:#12ABB2;
+<path class="st66" d="M197.4,499.2c7.8-9.5,12.6-21.7,12.6-35c0-30.4-24.6-55-55-55c-26.6,0-48.8,18.9-53.9,43.9"/>
+
+	<circle id="1993CIRCLE" class="st67" cx="157.4" cy="457.2" r="57"/>
+
+
+	<circle id="2000CIRCLE" class="st67" cx="331.9" cy="513.2" r="60.5"/>
+
+
+	<circle id="2005CIRCLE" class="st67" cx="398.1" cy="341.8" r="64.5" />
+
+
+	<circle id="2010CIRCLE" class="st67" cx="574.1" cy="439.2" r="61" />
+
+
+	<circle id="2017CIRCLE" class="st67" cx="632.9" cy="224.2" r="75" />
+
+
+<rect x="85.8" y="588" class="st26" width="713.8" height="267"/>
+	<text transform="matrix(1 0 0 1 341.9121 660.6797)"><tspan x="0" y="0" class="st27 st68">Развитие Wiley в России</tspan><tspan x="-256.1" y="38.4" class="st27 st28">С</tspan><tspan x="-247.2" y="38.4" class="st27 st28"> </tspan><tspan x="-243.3" y="38.4" class="st27 st28">момента</tspan><tspan x="-183.2" y="38.4" class="st27 st28"> </tspan><tspan x="-179.3" y="38.4" class="st27 st28">начала</tspan><tspan x="-130.6" y="38.4" class="st27 st28"> </tspan><tspan x="-126.7" y="38.4" class="st27 st28">деятельности</tspan><tspan x="-33" y="38.4" class="st27 st28">  </tspan><tspan x="-25.2" y="38.4" class="st27 st28">развитие</tspan><tspan x="38.1" y="38.4" class="st27 st28"> </tspan><tspan x="42" y="38.4" class="st27 st28">российского</tspan><tspan x="126.9" y="38.4" class="st27 st28"> </tspan><tspan x="130.8" y="38.4" class="st27 st28">подразделения</tspan><tspan x="236.3" y="38.4" class="st27 st28"> </tspan><tspan x="240.2" y="38.4" class="st27 st28">компании</tspan><tspan x="309.4" y="38.4" class="st27 st28"> </tspan><tspan x="313.3" y="38.4" class="st27 st28">Wiley</tspan><tspan x="348.2" y="38.4" class="st27 st28"> </tspan><tspan x="352.1" y="38.4" class="st27 st28">шло</tspan><tspan x="381" y="38.4" class="st27 st28"> </tspan><tspan x="384.9" y="38.4" class="st27 st28">успешно</tspan><tspan x="445" y="38.4" class="st27 st28"> </tspan><tspan x="448.9" y="38.4" class="st27 st28">и </tspan><tspan x="-256.1" y="55.2" class="st27 st28">планомерно.</tspan><tspan x="-166.5" y="55.2" class="st27 st28 st69"> </tspan><tspan x="-157.2" y="55.2" class="st27 st28">Профессиональный</tspan><tspan x="-19.9" y="55.2" class="st27 st28 st69"> </tspan><tspan x="-10.6" y="55.2" class="st27 st28">опыт</tspan><tspan x="23.9" y="55.2" class="st27 st28 st69"> </tspan><tspan x="33.2" y="55.2" class="st27 st28">российских</tspan><tspan x="111.4" y="55.2" class="st27 st28 st69"> </tspan><tspan x="120.7" y="55.2" class="st27 st28">инженеров</tspan><tspan x="198.4" y="55.2" class="st27 st28 st69"> </tspan><tspan x="207.7" y="55.2" class="st27 st28">высоко</tspan><tspan x="257.3" y="55.2" class="st27 st28 st69"> </tspan><tspan x="266.6" y="55.2" class="st27 st28">оценивался</tspan><tspan x="347.6" y="55.2" class="st27 st28 st69"> </tspan><tspan x="356.9" y="55.2" class="st27 st28">и</tspan><tspan x="365.8" y="55.2" class="st27 st28 st69"> </tspan><tspan x="375.1" y="55.2" class="st27 st28">продолжает </tspan><tspan x="-256.1" y="72" class="st27 st28">оцениваться</tspan><tspan x="-168.2" y="72" class="st27 st28 st70"> </tspan><tspan x="-160.6" y="72" class="st27 st28">руководством</tspan><tspan x="-64.9" y="72" class="st27 st28 st70"> </tspan><tspan x="-57.2" y="72" class="st27 st28">компании.</tspan><tspan x="15.6" y="72" class="st27 st28 st70">  </tspan><tspan x="30.9" y="72" class="st27 st28">Постепенно</tspan><tspan x="113.4" y="72" class="st27 st28 st70"> </tspan><tspan x="121" y="72" class="st27 st28">российское</tspan><tspan x="199.4" y="72" class="st27 st28 st70"> </tspan><tspan x="207" y="72" class="st27 st28">представительство</tspan><tspan x="338.3" y="72" class="st27 st28 st70"> </tspan><tspan x="345.9" y="72" class="st27 st28">превратилось</tspan><tspan x="442.2" y="72" class="st27 st28 st70"> </tspan><tspan x="449.8" y="72" class="st27 st28">в </tspan><tspan x="-256.1" y="88.8" class="st27 st28">крупнейший</tspan><tspan x="-168.7" y="88.8" class="st27 st28 st71"> </tspan><tspan x="-162" y="88.8" class="st27 st28">технологический</tspan><tspan x="-43.6" y="88.8" class="st27 st28 st71"> </tspan><tspan x="-36.9" y="88.8" class="st27 st28">центр</tspan><tspan x="3.7" y="88.8" class="st27 st28 st71">  </tspan><tspan x="17" y="88.8" class="st27 st28">Wiley,</tspan><tspan x="55.4" y="88.8" class="st27 st28 st71"> </tspan><tspan x="62" y="88.8" class="st27 st28">участвуя</tspan><tspan x="121.4" y="88.8" class="st27 st28 st71"> </tspan><tspan x="128" y="88.8" class="st27 st28">в</tspan><tspan x="136" y="88.8" class="st27 st28 st71"> </tspan><tspan x="142.7" y="88.8" class="st27 st28">разработке</tspan><tspan x="220.6" y="88.8" class="st27 st28 st71"> </tspan><tspan x="227.3" y="88.8" class="st27 st28">и</tspan><tspan x="236.1" y="88.8" class="st27 st28 st71"> </tspan><tspan x="242.8" y="88.8" class="st27 st28">поддержке</tspan><tspan x="317.8" y="88.8" class="st27 st28 st71"> </tspan><tspan x="324.5" y="88.8" class="st27 st28">таких</tspan><tspan x="362.3" y="88.8" class="st27 st28 st71"> </tspan><tspan x="368.9" y="88.8" class="st27 st28">флагманских </tspan><tspan x="-256.1" y="105.6" class="st27 st28">продуктов,</tspan><tspan x="-181.6" y="105.6" class="st27 st28"> </tspan><tspan x="-178.6" y="105.6" class="st27 st28">как</tspan><tspan x="-156.3" y="105.6" class="st27 st28"> </tspan><tspan x="-153.3" y="105.6" class="st27 st28"><a href="https://www.wileyplus.com/" target="_blank" class="st69"> Wiley PLUS,</a></tspan><tspan x="-78.4" y="105.6" class="st27 st28">  </tspan><tspan x="-72.4" y="105.6" class="st27 st28"><a href="http://onlinelibrary.wiley.com/" target="_blank" class="st69">Wiley Online Library,</a></tspan><tspan x="60.7" y="105.6" class="st27 st28">  </tspan><tspan x="66.7" y="105.6" class="st27 st28" ><a href="https://www.efficientlearning.com/" target="_blank" class="st69">Wiley Efficient Learning,</a></tspan><tspan x="220.5" y="105.6" class="st27 st28">  </tspan><tspan x="226.5" y="105.6" class="st27 st28"><a href="http://onlinelibrary.wiley.com/browse/publications?type=journal" target="_blank" class="st69">Wiley Journals,</a></tspan><tspan x="328.1" y="105.6" class="st27 st28">  </tspan><tspan x="334.1" y="105.6" class="st27 st28"><a href="http://www.wileyopenaccess.com/view/index.html" target="_blank" class="st69">Wiley Open Access,</a> </tspan><tspan x="-256.1" y="122.4" class="st27 st28"><a href="http://www.cochranelibrary.com/" target="_blank" class="st69">Cochrane Library,</a></tspan><tspan x="-127.3" y="122.4" class="st27 st28 st72"> </tspan><tspan x="-130.1" y="122.4" class="st27 st28"><a href="https://authorservices.wiley.com/home.html" target="_blank" class="st69">Wiley Author Services,</a></tspan><tspan x="60.8" y="122.4" class="st27 st28 st72"> </tspan><tspan x="156.6" y="122.4" class="st27 st28 st72"> </tspan><tspan x="30.7" y="120.4" class="st27 st28"><a href="http://www.leadershipchallenge.com/professionals-section-lpi.aspx" target="_blank" class="st69">Leadership Practice Inventory</a></tspan><tspan x="180.3" y="122.4" class="st27 st28 st72"> </tspan><tspan x="240.5" y="122.4" class="st27 st28">и др.</tspan><tspan x="-256.1" y="148.2" class="st27 st28">В 2011 году был открыт филиал компании в Нижнем Новгороде,  в котором работают более 20</tspan><tspan x="-256.1" y="164" class="st27 st28">разработчиков и тестовых инженеров.   </tspan><tspan x="-256.1" y="189.6" class="st27 st28">В</tspan><tspan x="-247" y="189.6" class="st27 st28">  </tspan><tspan x="-241.1" y="189.6" class="st27 st28">настоящий</tspan><tspan x="-164.7" y="189.6" class="st27 st28"> </tspan><tspan x="-161.8" y="189.6" class="st27 st28">момент</tspan><tspan x="-109.5" y="189.6" class="st27 st28"> </tspan><tspan x="-106.6" y="189.6" class="st27 st28">компания</tspan><tspan x="-38.5" y="189.6" class="st27 st28"> </tspan><tspan x="-35.6" y="189.6" class="st27 st28">Джон</tspan><tspan x="1.6" y="189.6" class="st27 st28"> </tspan><tspan x="4.5" y="189.6" class="st27 st28">Вайли</tspan><tspan x="47.1" y="189.6" class="st27 st28"> </tspan><tspan x="50.1" y="189.6" class="st27 st28">и</tspan><tspan x="58.9" y="189.6" class="st27 st28"> </tspan><tspan x="61.9" y="189.6" class="st27 st28">Сыновья</tspan><tspan x="122.8" y="189.6" class="st27 st28"> </tspan><tspan x="125.8" y="189.6" class="st27 st28">Рус</tspan><tspan x="147.9" y="189.6" class="st27 st28"> </tspan><tspan x="150.8" y="189.6" class="st27 st28">насчитывает</tspan><tspan x="239" y="189.6" class="st27 st28"> </tspan><tspan x="241.9" y="189.6" class="st27 st28">более</tspan><tspan x="282.4" y="189.6" class="st27 st28"> </tspan><tspan x="285.4" y="189.6" class="st27 st28">270</tspan><tspan x="309.4" y="189.6" class="st27 st28"> </tspan><tspan x="312.3" y="189.6" class="st27 st28">опытных</tspan><tspan x="373.8" y="189.6" class="st27 st28"> </tspan><tspan x="376.7" y="189.6" class="st27 st28">инженеров, </tspan><tspan x="-256.1" y="206.4" class="st27 st28">специализирующихся</tspan><tspan x="-104.5" y="206.4" class="st27 st28 st73"> </tspan><tspan x="-83" y="206.4" class="st27 st28">в</tspan><tspan x="-75" y="206.4" class="st27 st28 st73"> </tspan><tspan x="-53.5" y="206.4" class="st27 st28">области</tspan><tspan x="1.1" y="206.4" class="st27 st28 st73"> </tspan><tspan x="22.6" y="206.4" class="st27 st28">разработки,</tspan><tspan x="105" y="206.4" class="st27 st28 st73"> </tspan><tspan x="126.4" y="206.4" class="st27 st28">тестирования</tspan><tspan x="221.2" y="206.4" class="st27 st28 st73"> </tspan><tspan x="242.7" y="206.4" class="st27 st28">программного</tspan><tspan x="343.1" y="206.4" class="st27 st28 st73"> </tspan><tspan x="364.6" y="206.4" class="st27 st28">обеспечения, </tspan><tspan x="-256.1" y="223.2" class="st27 st28">создания образовательного контента.   </tspan></text>
+
+</svg>

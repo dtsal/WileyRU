@@ -1,0 +1,49 @@
+@font-face {
+    font-family:'HelveticaNeueCyr-Black';
+    src: url('../fonts/HelveticaNeueCyr-Black.otf');
+    font-weight: normal;
+    font-style: normal }
+
+@font-face {
+    font-family:'HelveticaNeueCyr-Bold';
+    src: url('../fonts/HelveticaNeueCyr-Bold.otf');
+    font-weight: normal;
+    font-style: normal;}
+
+
+
+#stage {
+
+    background-color: #fff;
+    width: 740px;
+    height: 829px;
+    margin: auto;
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+
+}
+
+#stage1 {
+    background-color: #fff;
+    width: 740px;
+    height: 829px;
+    margin: auto;
+    -webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;
+    animation: fade-in 1s ease-in-out;
+}
+
+
+
+@keyframes fade-in {
+    0% {
+
+        opacity: 0; }
+
+    100% {
+        opacity: 1;}}
+
+#Revenue18bln:hover
+{opacity: 1}

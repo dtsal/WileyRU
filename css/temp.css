@@ -1,0 +1,628 @@
+<style type="text/css">
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url(../fonts/OpenSans.ttf);
+}
+
+#BRSLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#ILNLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#CLRLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#SFRLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#FLDLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#RIOLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#MELLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#BRSLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#INDLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#MALLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#DUBLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#PHLLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#DELLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#HKGLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#SGHLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#KORLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#JAPLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#BEJLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#WHMLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#LNDLINE {fill:#fff;;stroke:#aa5a26;stroke-width:0.5;stroke-miterlimit:10;}
+#MSKLINE {fill:#fff;;stroke:#c43227;stroke-width:1;stroke-miterlimit:10;}
+
+
+#NYHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+}
+
+#ILNLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.3s;
+}
+
+#CLRLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.4s;
+}
+
+#SFRLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.5s;
+}
+
+#FLDLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.6s;
+}
+
+#RIOLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.7s;
+}
+
+#MELLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.8s;
+}
+
+#BRSLINE {
+    visibility: hidden;
+    stroke-dasharray: 900;
+    stroke-dashoffset: 900;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 0.9s;
+}
+
+#INDLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1s;
+}
+
+#MALLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.1s;
+}
+
+#DUBLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.2s;
+}
+
+
+#PHLLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.3s;
+}
+
+#DELLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.4s;
+}
+
+
+#HKGLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.5s;
+}
+
+#SGHLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.6s;
+}
+
+#KORLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.7s;
+}
+
+#JAPLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.8s;
+}
+
+#BEJLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 1.9s;
+}
+
+
+#WHMLINE {
+    visibility: hidden;
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 2s;
+}
+
+
+#LNDLINE {
+    visibility: hidden;
+    stroke-dasharray: 500;
+    stroke-dashoffset: 500;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 2.1s;
+}
+
+
+#MSKLINE {
+    visibility: hidden;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 800;
+    -webkit-animation: dash 3s linear forwards;
+    -o-animation: dash 3s linear forwards;
+    -moz-animation: dash 3s linear forwards;
+    animation: dash 3s linear forwards;
+    -webkit-animation-delay: 4s;
+}
+
+
+
+#BBRSHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.63s;
+}
+
+#ILNHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 0.55s;
+}
+
+#CLRHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 0.7s;
+}
+
+#SFRHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 0.8s;
+}
+
+#FLDHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 0.58s;
+}
+
+#RIOHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 1.3s;
+}
+
+#MLBHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.6s;
+}
+
+#IDZHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.5s;
+}
+
+#MALHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.5s;
+}
+
+#DUBHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.2s;
+}
+
+#PHLHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.85s;
+}
+
+
+#DELHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.5s;
+}
+
+
+#HKGHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 2.9s;
+}
+
+#SGHHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3.1s;
+}
+
+
+#KORHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3.3s;
+}
+
+
+#JAPHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3.4s;
+}
+
+#BEJHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3.4s;
+}
+
+#WHMHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3.3s;
+}
+
+#LNDHOME {
+    visibility: hidden;
+    animation: home 0.7s linear forwards;
+    animation-delay: 3s;
+}
+
+#MSKHOME {
+    visibility: hidden;
+    animation: homemsk 1.5s ease-in-out;
+    animation-iteration-count: infinite;
+    animation-delay: 4.9s;
+}
+
+
+#MAPOFFICES {
+
+    -webkit-animation: mapscale 0.5s ease-in-out forwards;
+    -webkit-animation-delay: 5s;
+    -webkit-transform-origin: left bottom;
+}
+
+
+#TOPTEXT {
+    visibility: hidden;
+    -webkit-animation: toptext 1s linear forwards;
+    -webkit-animation-delay: 5.5s;
+}
+#WILEYRUSBANNER {
+    visibility: hidden;
+    -webkit-animation: wileyrusbanner 1s linear forwards;
+    -webkit-animation-delay: 5.5s;
+}
+
+#RIGHTMAPBANNER {
+    visibility: hidden;
+    -webkit-animation: rightmapbanner 1s linear forwards;
+    -webkit-animation-delay: 5.5s;
+}
+
+#LLCJWSONSTEXT  {
+    visibility: hidden;
+    -webkit-animation: llcjwsonstext 1s linear forwards;
+    -webkit-animation-delay: 5s;
+}
+
+
+
+
+@keyframes home {
+    from {
+        visibility: visible;
+        opacity: 0; }
+
+    to {
+        visibility: visible;
+        opacity: 1;}
+}
+
+
+
+@-webkit-keyframes toptext {
+    0% {visibility: visible;
+        opacity: 0;}
+    100% {visibility: visible;
+        opacity: 1;}
+}
+@-webkit-keyframes wileyrusbanner {
+    0% {visibility: visible;
+        opacity: 0;}
+    100% {visibility: visible;
+        opacity: 1;}
+}
+
+@-webkit-keyframes llcjwsonstext {
+    0% {visibility: visible;
+        opacity: 0;}
+    100% {visibility: visible;
+        opacity: 1;}
+}
+
+@-webkit-keyframes rightmapbanner {
+    0% {visibility: visible;
+        opacity: 0;}
+    100% {visibility: visible;
+        opacity: 1;}
+}
+
+@-webkit-keyframes mapscale {
+    0% {transform: scale(1);}
+    100% {transform: scale(0.8);}
+}
+
+@keyframes home {
+    from {
+        visibility: visible;
+        opacity: 0; }
+
+    to {
+        visibility: visible;
+        opacity: 1;}
+}
+
+@keyframes homemsk {
+    0% {
+        visibility: visible;
+        opacity: 0.2}
+
+    50% {
+        visibility: visible;
+        opacity: 1;}
+
+    100% {
+        visibility: visible;
+        opacity: 0.2;}
+
+}
+
+
+
+@-webkit-keyframes dash {
+    from {
+        visibility: visible;
+        opacity:1;
+    }
+    to {
+        visibility: visible;
+        stroke-dashoffset: 0;
+        opacity:0;
+    }
+
+}
+
+
+
+</style>
+
+
+
+  <style type="text/css">
+<style type="text/css">
+.st0{fill:none;}
+.st1{font-family:'OpenSans';}
+.st2{font-size:14.39px;}
+.st3{letter-spacing:0.9;}
+.st4{opacity:0.72;}
+.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st7{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st8{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st9{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_5_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st10{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_6_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st11{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_7_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st12{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_8_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st13{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_9_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st14{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_10_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st15{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_11_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st16{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_12_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st17{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_13_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st18{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_14_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st19{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_15_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st20{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_16_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st21{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_17_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st22{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_18_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st23{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_19_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st24{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_20_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st25{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_21_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st26{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_22_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st27{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_23_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st28{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_24_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st29{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_25_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st30{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_26_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st31{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_27_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st32{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_28_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st33{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_29_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st34{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_30_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st35{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_31_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st36{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_32_);stroke:#CB6D28;stroke-width:0.2655;stroke-miterlimit:10;}
+.st37{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_33_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st38{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_34_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st39{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_35_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st40{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_36_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st41{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_37_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st42{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_38_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st43{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_39_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st44{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_40_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st45{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_41_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st46{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_42_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st47{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_43_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st48{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_44_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st49{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_45_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st50{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_46_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st51{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_47_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st52{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_48_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st53{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_49_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st54{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_50_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st55{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_51_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st56{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_52_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st57{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_53_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st58{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_54_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st59{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_55_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st60{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_56_);stroke:#CB6D28;stroke-width:0.5311;stroke-miterlimit:10;}
+.st61{fill:#F47821;stroke:#AA5B26;stroke-width:0.5;stroke-miterlimit:10;}
+.st62{fill:none;stroke:#AA5B26;stroke-width:0.6783;stroke-miterlimit:10;}
+.st63{fill:none;stroke:#AA5B26;stroke-width:0.5148;stroke-miterlimit:10;}
+.st64{fill:none;stroke:#AA5B26;stroke-width:0.5;stroke-miterlimit:10;}
+.st65{fill:none;stroke:#AA5B26;stroke-width:0.4772;stroke-miterlimit:10;}
+.st66{fill-rule:evenodd;clip-rule:evenodd;fill:#AA5A26;}
+.st67{fill-rule:evenodd;clip-rule:evenodd;fill:#C43227;}
+.st68{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+.st69{fill-rule:evenodd;clip-rule:evenodd;fill:#F47821;}
+.st70{font-size:9px;}
+.st71{opacity:0.19;fill-rule:evenodd;clip-rule:evenodd;fill:#D8D6D6;}
+
+.st72{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#77ACB2;stroke-width:0.5669;stroke-linecap:round;stroke-miterlimit:22.9256;stroke-dasharray:0.5669,2.8346;}
+.st73{opacity:0.62;}
+.st74{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#965B28;stroke-width:0.5;stroke-miterlimit:22.9256;}
+.st75{opacity:0.25;fill-rule:evenodd;clip-rule:evenodd;fill:#BCBEC0;stroke:#7C5639;stroke-width:0.5;stroke-miterlimit:22.9256;}
+.st76{opacity:0.68;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#6B4626;stroke-width:0.216;stroke-miterlimit:22.9256;}
+.st77{opacity:0.57;fill-rule:evenodd;clip-rule:evenodd;fill:#6B4526;}
+.st78{fill:#965B28;}
+.st79{font-size:14.2416px;}
+.st80{fill:#965B29;}
+.st81{opacity:0.67;fill-rule:evenodd;clip-rule:evenodd;fill:#553113;}
+.st82{fill-rule:evenodd;clip-rule:evenodd;fill:#936C50;}
+</style>
+</style>
+
+
+    <li>
+    <a href="http://eu.wiley.com/WileyCDA/Brand/id-4.html"><img src="img/hp_brands-capstone.gif" class="left" style="margin-right:10px;" alt="Capstone"></a>
+                                                                                                                                                          <div class="brand-desc">
+<h4><a href="http://eu.wiley.com/WileyCDA/Brand/id-4.html">Capstone</a></h4>
+                                                                         <div class="brand-tagline">Книги об успехе в бизнесе</div>
+                                                                                                                               </div>
+                                                                                                                                 </li>
+                                                                                                                                   <li>
+                                                                                                                                   <a href="http://eu.wiley.com/WileyCDA/Brand/id-35.html"><img src="img/brand-blackwell.gif" alt="Wiley-Blackwell"></a>
+                                                                                                                                                                                                                                                      <div class="brand-desc">
+<div class="brand-tagline">Устанавлия стандарты научных, медицинских и технических публикаций</div>
+                                                                                               </div>
+                                                                                                 </li>
+                                                                                                   <li>
+                                                                                                   <a href="http://eu.wiley.com/WileyCDA/Section/id-405085.html"><img src="img/Small_Wiley_Wordmark_white_home.gif" alt="Wiley Higher Education"></a>
+                                                                                                                                                                                                                                                   <div class="brand-desc">
+<div class="brand-tagline">Ищете учебники для высшего образования? Начните отсюда</div>
+                                                                                   </div>
+                                                                                     </li>
+
+                                                                                                                                                                                                                                                               <li>
+                                                                                                                                                                                                                                                               <a href="http://eu.wiley.com/WileyCDA/Brand/id-31.html"><img src="img/brand-wileyplus.gif" alt=""></a>
+                                                                                                                                                                                                                                                                                                                                                                   <div class="brand-desc">
+<div class="brand-tagline">Уверенность. Мотивация. Успех</div>
+                                                          </div>
+                                                            </li>
